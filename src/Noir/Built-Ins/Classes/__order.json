@@ -5,6 +5,8 @@
         "Service.lua",
         "Player.lua",
         "Task.lua",
-        "Object.lua"
+        "Object.lua",
+        "Vehicle.lua",
+        "VehicleGroup.lua"
     ]
 }
